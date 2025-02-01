@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demos05", "Demos05\Demos05.csproj", "{91CB4A7C-26BA-42AF-B7F3-4F37AD08C471}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessMofiriers", "AccessMofiriers\AccessMofiriers.csproj", "{6EFFBD1D-3CCB-4F45-93C7-4169450C023E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{91CB4A7C-26BA-42AF-B7F3-4F37AD08C471}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91CB4A7C-26BA-42AF-B7F3-4F37AD08C471}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91CB4A7C-26BA-42AF-B7F3-4F37AD08C471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EFFBD1D-3CCB-4F45-93C7-4169450C023E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EFFBD1D-3CCB-4F45-93C7-4169450C023E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EFFBD1D-3CCB-4F45-93C7-4169450C023E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EFFBD1D-3CCB-4F45-93C7-4169450C023E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
